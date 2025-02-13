@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+google-generativeai
+python-multipart
+streamlit
+requests
+chardet
+chromadb
+sentence_transformer
+python-decouple
+pydantic-settings
+scikit-learn
+pandas
+numpy
+requests
