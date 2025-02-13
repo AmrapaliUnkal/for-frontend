@@ -13,4 +13,3 @@ pydantic-settings
 scikit-learn
 pandas
 numpy
-requests
