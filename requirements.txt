@@ -8,7 +8,6 @@ streamlit
 requests
 chardet
 chromadb
-sentence_transformer
 python-decouple
 pydantic-settings
 scikit-learn
