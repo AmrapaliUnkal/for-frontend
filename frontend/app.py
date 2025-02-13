@@ -2,7 +2,9 @@ import streamlit as st
 import requests
 
 # FastAPI URL
-API_URL = "http://127.0.0.1:8000/chat"
+#API_URL = "http://127.0.0.1:8000/chat"
+API_URL = "https://chatbot-gemini-project.up.railway.app/chat"
+
 
 st.title("💬FAQ Bot")
 
